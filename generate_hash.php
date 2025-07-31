@@ -1,4 +1,4 @@
 <?php
-$password = "Daniel145";
+$password = "angeles";
 $hash = password_hash($password, PASSWORD_DEFAULT);
 echo "Hash generado: <br><code>$hash</code>";
